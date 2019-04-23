@@ -1,0 +1,28 @@
+/*Project: Hands-On Exercises 6.4-6.7
+Author: Joshua Taylor
+Date: 4.23.19*/
+
+#class
+{
+  position: relative;
+  left: 15px;
+  background-color: #90EE90;
+}
+
+#id
+{
+  position: fixed;
+  background-color: #D3D3D3;
+  font-weight: bold;
+  padding: 10px;
+}
+
+ul li
+{
+  list-style-image: url(myimage.gif);
+}
+
+ul li
+{
+  list-style: square;
+}
