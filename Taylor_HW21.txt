@@ -26,3 +26,5 @@ ul li
 {
   list-style: square;
 }
+
+ul {list-style-type: square; }
